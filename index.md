@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - We learn useful concepts that are not taught in other CS classes such as using github
 - It is a student lead class
 - The concepts in this class will help you with clubs, internships, and jobs.
-- 
+  
 
 This is a space to write something.
 ```markdown
